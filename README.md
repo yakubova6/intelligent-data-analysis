@@ -1,7 +1,7 @@
 # Интеллектуальный анализ данных
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23ff0000?style=flat&logo=jupyter&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-1%2F11%20Labs-brightgreen) 
+![Progress](https://img.shields.io/badge/Progress-2%2F11%20Labs-brightgreen) 
 
 Практические работы по дисциплине "Интеллектуальный анализ данных".
 Все задания находятся в файле `all_tasks.ipynb` внутри папки соответствующей лабораторной работы.
@@ -21,5 +21,6 @@
 | 9 | [Кластеризация методом k-средних](./lab9/all_tasks.ipynb) | Скоро |
 | 10| [Восходящая кластеризация](./lab10/all_tasks.ipynb) | Скоро |
 | 11| [Нейронные сети](./lab11/all_tasks.ipynb) | Скоро |
+
 
 
