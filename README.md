@@ -1,28 +1,26 @@
-# Интеллектуальный анализ данных
+# Intelligent Data Analysis
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23ff0000?style=flat&logo=jupyter&logoColor=white)
 ![Progress](https://img.shields.io/badge/Progress-2%2F11%20Labs-brightgreen) 
 
-Практические работы по дисциплине "Интеллектуальный анализ данных".
-Все задания находятся в файле `all_tasks.ipynb` внутри папки соответствующей лабораторной работы.
+Practical assignments for the course **"Intelligent Data Analysis"**.  
+All tasks are located in the `all_tasks.ipynb` file inside the folder of the corresponding lab.
 
-## Состав практических работ
+## List of Lab Works
 
-| № | Название работы| Статус |
-|:-:|----------------|:------:|
-| 1 | [Упражнения на программирование](./lab1/all_tasks.ipynb) | Завершено |
-| 2 | [Проверка статистических гипотез](./lab2/all_tasks.ipynb) | Завершено |
-| 3 | [Парсинг веб-ресурсов](./lab3/all_tasks.ipynb) | В процессе |
-| 4 | [Препроцессинг данных](./lab4/all_tasks.ipynb) | Скоро |
-| 5 | [Градиентный спуск](./lab5/all_tasks.ipynb) | Скоро |
-| 6 | [Линейная регрессия](./lab6/all_tasks.ipynb) | Скоро |
-| 7 | [Логистическая регрессия и метод ближайших соседей](./lab7/all_tasks.ipynb) | Скоро |
-| 8 | [Деревья принятия решений](./lab8/all_tasks.ipynb) | Скоро |
-| 9 | [Кластеризация методом k-средних](./lab9/all_tasks.ipynb) | Скоро |
-| 10| [Восходящая кластеризация](./lab10/all_tasks.ipynb) | Скоро |
-| 11| [Нейронные сети](./lab11/all_tasks.ipynb) | Скоро |
+| # | Lab Title | Status |
+|:-:|-----------|:------:|
+| 1 | [Programming Exercises](./lab1/all_tasks.ipynb) | Completed |
+| 2 | [Statistical Hypothesis Testing](./lab2/all_tasks.ipynb) | Completed |
+| 3 | [Web Scraping](./lab3/all_tasks.ipynb) | In Progress |
+| 4 | [Data Preprocessing](./lab4/all_tasks.ipynb) | Upcoming |
+| 5 | [Gradient Descent](./lab5/all_tasks.ipynb) | Upcoming |
+| 6 | [Linear Regression](./lab6/all_tasks.ipynb) | Upcoming |
+| 7 | [Logistic Regression & K-Nearest Neighbors](./lab7/all_tasks.ipynb) | Upcoming |
+| 8 | [Decision Trees](./lab8/all_tasks.ipynb) | Upcoming |
+| 9 | [K-Means Clustering](./lab9/all_tasks.ipynb) | Upcoming |
+| 10 | [Agglomerative Clustering](./lab10/all_tasks.ipynb) | Upcoming |
+| 11 | [Neural Networks](./lab11/all_tasks.ipynb) | Upcoming |
 
 ---
-*Репозиторий обновляется по мере выполнения новых лабораторных работ*
-
-
+*The repository is updated as new lab works are completed.*
