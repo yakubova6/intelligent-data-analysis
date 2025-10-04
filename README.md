@@ -1,10 +1,12 @@
 # Intelligent Data Analysis
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23ff0000?style=flat&logo=jupyter&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-2%2F11%20Labs-brightgreen) 
+![Progress](https://img.shields.io/badge/Progress-2%2F11%20Labs-brightgreen)
 
 Practical assignments for the course **"Intelligent Data Analysis"**.  
 All tasks are located in the `all_tasks.ipynb` file inside the folder of the corresponding lab.
+
+---
 
 ## List of Lab Works
 
@@ -23,4 +25,17 @@ All tasks are located in the `all_tasks.ipynb` file inside the folder of the cor
 | 11 | [Neural Networks](./lab11/all_tasks.ipynb) | Upcoming |
 
 ---
-*The repository is updated as new lab works are completed.*
+
+## About This Repository
+This repository contains **practical assignments** for the **Intelligent Data Analysis** course.  
+The labs cover topics such as programming exercises, statistics, web scraping, data preprocessing, gradient descent, regression, classification, clustering, and neural networks.  
+
+The repository is regularly updated as new lab works are completed.
+
+---
+
+## Getting Started
+1. Install [Python](https://www.python.org/) and [Jupyter Notebook](https://jupyter.org/).
+2. Clone this repository:
+   ```bash
+   git clone <repository_url>
