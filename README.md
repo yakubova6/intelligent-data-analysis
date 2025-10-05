@@ -39,5 +39,7 @@ The repository is regularly updated as new lab works are completed.
 2. Clone this repository:
    ```bash
    git clone https://github.com/yakubova6/intelligent-data-analysis.git
+   ```
+
 
 
