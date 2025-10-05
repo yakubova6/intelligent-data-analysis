@@ -38,5 +38,6 @@ The repository is regularly updated as new lab works are completed.
 1. Install [Python](https://www.python.org/) and [Jupyter Notebook](https://jupyter.org/).
 2. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/yakubova6/intelligent-data-analysis.git
+
 
