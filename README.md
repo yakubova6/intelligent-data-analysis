@@ -1,7 +1,7 @@
 # Intelligent Data Analysis
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23ff0000?style=flat&logo=jupyter&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-2%2F11%20Labs-brightgreen)
+![Progress](https://img.shields.io/badge/Progress-3%2F11%20Labs-brightgreen)
 
 Practical assignments for the course **"Intelligent Data Analysis"**.  
 All tasks are located in the `all_tasks.ipynb` file inside the folder of the corresponding lab.
@@ -40,6 +40,7 @@ The repository is regularly updated as new lab works are completed.
    ```bash
    git clone https://github.com/yakubova6/intelligent-data-analysis.git
    ```
+
 
 
 
