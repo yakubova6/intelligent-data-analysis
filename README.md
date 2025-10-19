@@ -1,7 +1,7 @@
 # Intelligent Data Analysis
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23ff0000?style=flat&logo=jupyter&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-3%2F11%20Labs-brightgreen)
+![Progress](https://img.shields.io/badge/Progress-4%2F11%20Labs-brightgreen)
 
 Practical assignments for the course **"Intelligent Data Analysis"**.  
 All tasks are located in the `all_tasks.ipynb` file inside the folder of the corresponding lab.
@@ -15,8 +15,8 @@ All tasks are located in the `all_tasks.ipynb` file inside the folder of the cor
 | 1 | [Programming Exercises](./lab1/all_tasks.ipynb) | Completed |
 | 2 | [Statistical Hypothesis Testing](./lab2/all_tasks.ipynb) | Completed |
 | 3 | [Web Scraping](./lab3/all_tasks.ipynb) | Completed |
-| 4 | [Data Preprocessing](./lab4/all_tasks.ipynb) | In Progress |
-| 5 | [Gradient Descent](./lab5/all_tasks.ipynb) | Upcoming |
+| 4 | [Data Preprocessing](./lab4/all_tasks.ipynb) | Completed |
+| 5 | [Gradient Descent](./lab5/all_tasks.ipynb) | In Progress |
 | 6 | [Linear Regression](./lab6/all_tasks.ipynb) | Upcoming |
 | 7 | [Logistic Regression & K-Nearest Neighbors](./lab7/all_tasks.ipynb) | Upcoming |
 | 8 | [Decision Trees](./lab8/all_tasks.ipynb) | Upcoming |
@@ -40,6 +40,7 @@ The repository is regularly updated as new lab works are completed.
    ```bash
    git clone https://github.com/yakubova6/intelligent-data-analysis.git
    ```
+
 
 
 
