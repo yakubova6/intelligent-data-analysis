@@ -1,7 +1,7 @@
 # Intelligent Data Analysis
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23ff0000?style=flat&logo=jupyter&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-7%2F11%20Labs-brightgreen)
+![Progress](https://img.shields.io/badge/Progress-8%2F10%20Labs-brightgreen)
 
 Practical assignments for the course **"Intelligent Data Analysis"**.  
 All tasks are located in the `all_tasks.ipynb` file inside the folder of the corresponding lab.
@@ -19,10 +19,9 @@ All tasks are located in the `all_tasks.ipynb` file inside the folder of the cor
 | 5 | [Gradient Descent](./lab5/all_tasks.ipynb) | Completed |
 | 6 | [Linear Regression](./lab6/all_tasks.ipynb) | Completed |
 | 7 | [Logistic Regression & K-Nearest Neighbors](./lab7/all_tasks.ipynb) | Completed |
-| 8 | [Decision Trees](./lab8/all_tasks.ipynb) | In Progress |
-| 9 | [K-Means Clustering](./lab9/all_tasks.ipynb) | Upcoming |
-| 10 | [Agglomerative Clustering](./lab10/all_tasks.ipynb) | Upcoming |
-| 11 | [Neural Networks](./lab11/all_tasks.ipynb) | Upcoming |
+| 8 | [Decision Trees](./lab8/all_tasks.ipynb) | Completed |
+| 9 | [K-Means Clustering && Agglomerative Clustering](./lab9/all_tasks.ipynb) | In Progress |
+| 10 | [Neural Networks](./lab10/all_tasks.ipynb) | Upcoming |
 
 ---
 
@@ -40,6 +39,7 @@ The repository is regularly updated as new lab works are completed.
    ```bash
    git clone https://github.com/yakubova6/intelligent-data-analysis.git
    ```
+
 
 
 
